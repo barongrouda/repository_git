@@ -1,0 +1,32 @@
+# 20140224
+
+
+### INSTRUCTIONS git ###
+
+### GIT configurations ###
+stuart@cadair-laptop ~/GitHub/sunpy (git)-[0.4] % git config --global -l
+user.name=Stuart Mumford
+user.email=stuart@mumford.me.uk
+push.default=matching
+color.ui=auto
+
+
+
+
+
+### Other useful git commands:
+current status of the repo, which files are being tracked and which are staged etc.
+
+
+>git commit --amend' to change the last commit message (use with caution ;))
+
+>git log -> ***FILL*** 
+
+>git status -> print the last commits
+
+>git commit -a -> add all unstaged commits and commit them.
+
+>git log --name-status -> show the git log with modified files though 'git log --stat' is some what better.
+
+
+cositas
