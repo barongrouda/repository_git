@@ -30,6 +30,6 @@ current status of the repo, which files are being tracked and which are staged e
 
 >git push -> ***FILL***
 
->git pull -> *** FILL ***
+>git pull -> *** FILL***
 
 
