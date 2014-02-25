@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 20140225
+=======
+# 20140225 LAEFF
+>>>>>>> 629249283f6fc4b78eec84cd0318301f8b0f5557
 
 
 ### INSTRUCTIONS git ###
@@ -28,9 +32,16 @@ current status of the repo, which files are being tracked and which are staged e
 
 >git log --name-status -> show the git log with modified files though 'git log --stat' is some what better.
 
+>git push -> ***FILL***
 
+>git pull -> *** FILL***
+
+
+<<<<<<< HEAD
 >git pull
 
 >git push 
 
 cositas
+=======
+>>>>>>> 629249283f6fc4b78eec84cd0318301f8b0f5557
