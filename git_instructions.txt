@@ -1,4 +1,4 @@
-# 20140224
+# 20140225 LAEFF
 
 
 ### INSTRUCTIONS git ###
@@ -28,5 +28,8 @@ current status of the repo, which files are being tracked and which are staged e
 
 >git log --name-status -> show the git log with modified files though 'git log --stat' is some what better.
 
+>git push -> ***FILL***
 
-cositas
+>git pull -> *** FILL ***
+
+
